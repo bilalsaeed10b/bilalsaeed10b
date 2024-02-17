@@ -5,6 +5,9 @@
 - 📫 Email: bilalsaeed12b@gmail.com
 - i am a software engineer currently studying in SSUET degree (BSSE) 
 
+i have some websites you can check 
+www.karachisafetypro.com (completed as per requirements)
+www.libertygloves.com (under major changes)
 
 <!---
 bilalsaeed10b/bilalsaeed10b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
